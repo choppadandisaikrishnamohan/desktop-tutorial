@@ -1,5 +1,6 @@
 .blink{
-    color:violet
+    color: green
+    
 }
 a{
     margin: 600px;
@@ -7,7 +8,7 @@ a{
 }
 body{
     min-height: 100vh;
-
+    
     justify-content:center;
     align-items:center;
     background-color:aquamarine;
@@ -75,5 +76,3 @@ body{
     cursor:pointer;
     font-size:20px;
 }
-
-
