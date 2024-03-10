@@ -1,3 +1,6 @@
+.blink{
+    color:violet
+}
 a{
     margin: 600px;;
 
@@ -12,9 +15,9 @@ body{
 }
 .container{
     height:min-content;
-    margin-left: 415px;
-    margin-top: 200px;
-    width:400px;
+    margin-left: 445px;
+    margin-top: 100px;
+    width:350px;
     background-color: bisque;
     border-radius:12px;
     padding:12px;
